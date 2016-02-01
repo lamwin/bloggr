@@ -1,0 +1,183 @@
+body{
+	background-color: #FEFEFE;
+	margin: 0;
+	padding: 0;
+}
+
+hr{
+	margin-top: 0px;
+}
+
+a.activate-btn{
+	margin: 0;
+	width: 80%;
+}
+
+#sidebar{
+	padding: 0;
+}
+
+ul.sidebar li:hover{
+	background-color: #e6e6e6;
+}
+
+img.profile-img{
+	border: solid 1px #d9dce1;
+}
+
+div.profile-card{
+	border-radius: 5px;
+	padding: 5px;
+    border: solid 1px #d9dce1;
+    margin-bottom: 10px;
+}
+
+h5.profile-name{
+	margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+div.profile-display{
+	border-radius: 5px;
+	padding: 5px;
+	border: solid 1px #d9dce1;
+}
+
+hr.profile-hr{
+	margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+div.profile-display ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+}
+
+div.profile-display ul li{
+	overflow: auto;
+	padding-bottom: 5px;
+}
+
+div.profile-display ul li:last-child{
+	padding-bottom: 0px;
+}
+
+div.profile-display span.display-title{
+	float: left;
+}
+
+div.profile-display span.badge{
+	float: right;
+}
+
+/* Profile - Posts Container */
+
+div.profile-post-container{
+	background-color: #fff;
+	border: solid 1px #d9dce1;
+	border-radius: 5px;
+}
+
+div.profile-post-container h3{
+	border-bottom: solid 1px #d9dce1;
+	padding: 10px;
+}
+
+div.profile-post-container h4{
+	margin-bottom: 0;
+}
+
+div.profile-post-container div.post-container{
+	margin: 10px;
+	padding-bottom: 20px;
+	border-bottom: solid 1px #d9dce1;
+}
+
+div.profile-post-container div.post-container:last-child{
+	padding-bottom: 10px;
+	border-bottom: 0px;
+}
+
+/* Top Bar */
+ul.menu i.fa{
+	width: 18px;
+    text-align: center;
+}
+
+/* Register Page */
+div.register-card{
+	margin: 0 auto;
+	width: 40%;
+	margin-top: 30px;
+}
+
+div.register-card h3{
+	padding: 10px;
+	margin-bottom: 0;
+	background-color: #2199e8;
+	color: #fff;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+div.register-card div.row{
+	border: solid 1px #d9dce1;
+	padding-top: 10px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+span.required{
+	color: #ec5840;
+}
+
+/* Reset Password Page */
+div.reset-card{
+	margin: 0 auto;
+	width: 70%;
+	margin-top: 30px;
+}
+
+div.reset-card h3{
+	padding: 10px;
+	margin-bottom: 0;
+	background-color: #fff;
+	border: solid 1px #d9dcd1;
+	border-bottom: 0px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+div.reset-card div.row{
+	border: solid 1px #d9dce1;
+	padding-top: 10px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+div.reset-card span.required{
+	color: #ec5840;
+}
+
+/* Header Styling */
+div.header-wrapper{
+	width: 100%;
+	background-color: #2199e8;
+	margin-bottom: 25px;
+}
+
+div.header-container{
+	width: 70%;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+div.header-container h3{
+	margin: 0;
+	color: #fff;
+}
+
+
+

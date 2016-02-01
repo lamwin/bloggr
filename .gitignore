@@ -1,0 +1,8 @@
+.DS_Store
+core/init.php
+css/foundation.css
+images
+js
+node_modules
+vendor
+composer.lock

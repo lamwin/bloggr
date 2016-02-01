@@ -1,0 +1,13 @@
+#About this project!
+
+I built this blogging web application with the intention to learn more about web technologies, as well as to level up as a developer. I built the back-end from scratch with PHP, and I used Zurb Foundation 6 for front-end styling. I built it by myself and tested by myself, so there might be random bugs that I haven't caught; if you come across a bug, please let me know. This app is no where near done because I want to add more functionalities and features to it.
+
+Todo:
+
+- Commenting system
+- Like system
+- URL rewriting (not really a functionality)
+- Image posting for article
+- AJAX functionality
+- Search feature
+- Sort feature
